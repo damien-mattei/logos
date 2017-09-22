@@ -20,6 +20,8 @@
 ;; linux : (load "/home/mattei/Copy/info/logos.lisp") 
 ;;
 ;;
+;; test for git
+;;
 ;; provides :
 ;;
 ;; transformation towards Disjonctive Normal Form
